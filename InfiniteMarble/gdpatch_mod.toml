@@ -1,0 +1,7 @@
+id = "infinite_marble"
+
+[meta]
+name = "MarbleAlwaysTrue"
+version = "1.0.0"
+authors = ["Skykidgamer8"]
+description = "Forces the do_marble flag to always stay true."
